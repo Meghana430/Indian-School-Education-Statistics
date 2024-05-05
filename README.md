@@ -29,11 +29,5 @@ The dataset includes seven CSV files, each detailing specific aspects of school 
 - **Secondary Education Development:** Various states achieved 100% in upper primary schools with secondary education, but regional disparities exist.
 - **Technological Access and Gender Parity:** Despite a digital divide in computer access, there's a movement toward gender parity in secondary education enrollment.
 
-## How to Use This Repository 📝
-
-Clone this repository to view CSV files and analysis notebooks:
-```bash
-git clone https://github.com/YourGitHub/Indian-School-Education-Statistics.git
-cd Indian-School-Education-Statistics
 
 
